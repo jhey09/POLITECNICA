@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+    background-color: #DC7633;
+    align-items: center;
+    text-align: center;
+    
+}
+.logo{ 
+    text-decoration: none;
+    width:7%;
+    height:60% ;
+    margin: 2%;
+    margin-right: 20%;
+    border-radius: 50%
+};
+
+.texto{
+    color: white;
+    
+
+}
+
+.contac{
+    color: white;
+}
+
+
+
+
+
