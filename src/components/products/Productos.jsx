@@ -28,7 +28,7 @@ export default () => {
   return (
     <section className="grid md:grid-cols-4 md:gap-4">
       <div className="relative col-span-4 ">
-        <img src={Imagenes[index]} alt="" className="aspect-[15/15]" />
+        <img src={Imagenes[index]} alt="" className=" foto aspect-[12/15]"/>
         <div className="absolute top-1/2  left-0 flex w-full justify-between px-4">
           <button
             className="flex h-10 w-10 items-center justify-center rounded-full bg-white"
